@@ -9,6 +9,6 @@ We implemented three models: ResNet, DenseNet, EfficientNet
 Contributors --> Contributions
 Abhishek Agrawal --> Implemented ResNet
 Udhaya Lekha --> Implemented DenseNet
-Chennu Govind Sai --> Implemented EfficientNet
+Chennu Govind Sai --> Data preprocessing and visualization. Implemented EfficientNet and the ensemble of efficientnet and densenet
 
 
