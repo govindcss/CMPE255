@@ -6,9 +6,12 @@ The dataset is small and comes from many disparate sources, so there are plenty 
 
 We implemented three models: ResNet, DenseNet, EfficientNet
 
-Contributors --> Contributions
+**Contributors --> Contributions**
+
 Abhishek Agrawal --> Implemented ResNet
+
 Udhaya Lekha --> Implemented DenseNet
+
 Chennu Govind Sai --> Data preprocessing and visualization. Implemented EfficientNet and the ensemble of efficientnet and densenet
 
 
